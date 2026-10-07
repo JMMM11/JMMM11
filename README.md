@@ -1,12 +1,12 @@
 <!-- ============================================================
-  JMMM11 · Profile README
-  Repo requerido: github.com/JMMM11/JMMM11  (mismo nombre que tu usuario)
+  JMMM11 - Profile README (v2, sin emojis, mas animaciones)
+  Repo requerido: github.com/JMMM11/JMMM11
   Acento: #8052ff
 ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b1f8f,100:8052ff&height=230&section=header&text=JMMM11&fontSize=78&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Builder%20%C2%B7%20AI%20Explorer&descSize=18&descAlignY=58&descColor=c4b5fd" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b1f8f,100:8052ff&height=240&section=header&text=JMMM11&fontSize=80&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Builder%20%C2%B7%20AI%20Explorer&descSize=18&descAlignY=58&descColor=c4b5fd" width="100%" alt="header" />
 
 <a href="https://github.com/JMMM11">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8052FF&center=true&vCenter=true&width=640&height=50&lines=Building+digital+products+with+code+and+design;Exploring+AI+and+intelligent+interfaces;Writing+software+that+feels+finished;Build+%C2%B7+Learn+%C2%B7+Improve+%C2%B7+Repeat" alt="Typing SVG" />
@@ -22,9 +22,11 @@
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
 
-## 01 — ABOUT ME
+<!-- ======================= 01 ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=01+%E2%80%94+ABOUT+ME" alt="01 - ABOUT ME" />
 
 <table>
 <tr>
@@ -57,34 +59,38 @@ $ status
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
 
-## 02 — CURRENT FOCUS
+<!-- ======================= 02 ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=02+%E2%80%94+CURRENT+FOCUS" alt="02 - CURRENT FOCUS" />
 
 <table>
 <tr>
 <td width="25%" align="center">
-<h3>🛠️<br>Building</h3>
+<h3>Building</h3>
 <sub>Web applications<br>and digital products</sub>
 </td>
 <td width="25%" align="center">
-<h3>🧠<br>Exploring</h3>
+<h3>Exploring</h3>
 <sub>Artificial Intelligence<br>and intelligent interfaces</sub>
 </td>
 <td width="25%" align="center">
-<h3>🏗️<br>Developing</h3>
+<h3>Developing</h3>
 <sub>Full-stack apps and<br>modern architectures</sub>
 </td>
 <td width="25%" align="center">
-<h3>📚<br>Learning</h3>
+<h3>Learning</h3>
 <sub>New tech, dev practices<br>and product design</sub>
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
 
-## 03 — TECH STACK
+<!-- ======================= 03 ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=03+%E2%80%94+TECH+STACK" alt="03 - TECH STACK" />
 
 <div align="center">
 
@@ -119,13 +125,15 @@ $ status
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
 
-## 04 — PROJECTS
+<!-- ======================= 04 ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=04+%E2%80%94+PROJECTS" alt="04 - PROJECTS" />
 
 <!--
 ============================================================
-Cuando tengas un proyecto, descomenta una tarjeta y cambia
+Cuando tengas un proyecto, descomenta la tabla y cambia
 REPO_NAME por el nombre exacto de tu repositorio.
 ============================================================
 
@@ -151,9 +159,11 @@ REPO_NAME por el nombre exacto de tu repositorio.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
 
-## 05 — GITHUB ACTIVITY
+<!-- ======================= 05 ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=05+%E2%80%94+GITHUB+ACTIVITY" alt="05 - GITHUB ACTIVITY" />
 
 <div align="center">
 
@@ -166,9 +176,11 @@ REPO_NAME por el nombre exacto de tu repositorio.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
 
-## 06 — CONTRIBUTIONS
+<!-- ======================= 06 ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=06+%E2%80%94+CONTRIBUTIONS" alt="06 - CONTRIBUTIONS" />
 
 <div align="center">
 
@@ -176,36 +188,35 @@ REPO_NAME por el nombre exacto de tu repositorio.
 
 <br><br>
 
-<!-- Serpiente animada: requiere el workflow snake.yml (ver instrucciones) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake-dark.svg" width="95%" />
 </picture>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JMMM11&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12" />
-
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
 
-## 07 — DEVELOPMENT MINDSET
+<!-- ======================= 07 ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=500&height=45&lines=07+%E2%80%94+DEVELOPMENT+MINDSET" alt="07 - DEVELOPMENT MINDSET" />
 
 <table>
 <tr>
-<td width="20%" align="center"><h3>🎨<br>Design</h3><sub>Make it intuitive.</sub></td>
-<td width="20%" align="center"><h3>🧩<br>Code</h3><sub>Make it maintainable.</sub></td>
-<td width="20%" align="center"><h3>⚡<br>Performance</h3><sub>Make it fast.</sub></td>
-<td width="20%" align="center"><h3>🤖<br>AI</h3><sub>Make it useful.</sub></td>
-<td width="20%" align="center"><h3>✨<br>Details</h3><sub>Make it feel finished.</sub></td>
+<td width="20%" align="center"><h3>Design</h3><sub>Make it intuitive.</sub></td>
+<td width="20%" align="center"><h3>Code</h3><sub>Make it maintainable.</sub></td>
+<td width="20%" align="center"><h3>Performance</h3><sub>Make it fast.</sub></td>
+<td width="20%" align="center"><h3>AI</h3><sub>Make it useful.</sub></td>
+<td width="20%" align="center"><h3>Details</h3><sub>Make it feel finished.</sub></td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
 
-## 08 — PHILOSOPHY
+<!-- ======================= 08 ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=08+%E2%80%94+PHILOSOPHY" alt="08 - PHILOSOPHY" />
 
 <div align="center">
 
@@ -218,11 +229,11 @@ Every tool should have a purpose.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
 
 <div align="center">
 
-<h2>Let's build something great.</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=8052FF&center=true&vCenter=true&width=600&height=60&lines=Let's+build+something+great." alt="Let's build something great" />
 
 Interested in technology, software, AI or building something interesting?
 
@@ -239,6 +250,6 @@ Interested in technology, software, AI or building something interesting?
 
 <sub>Code · Ideas · Real Impact</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8052ff,50:3b1f8f,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8052ff,50:3b1f8f,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
