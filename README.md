@@ -218,3 +218,204 @@ Selected projects will appear here as they are built.
 </sub>
 
 <br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=9CA3AF&center=true&vCenter=true&width=600&height=40&lines=Building+something+worth+showing...;Projects+will+be+added+as+they+are+completed.;Ideas+%E2%86%92+Code+%E2%86%92+Product" alt="Projects status" />
+
+</div>
+
+<!--
+============================================================
+PROJECT TEMPLATE
+
+When you have a project, copy this structure:
+
+<table>
+<tr>
+
+<td width="50%">
+
+<a href="https://github.com/JMMM11/REPOSITORY_NAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8052ff&icon_color=8052ff" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### Project Name
+
+Short description of the project.
+
+`React` `Python` `PostgreSQL`
+
+</td>
+
+</tr>
+</table>
+
+============================================================
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
+
+<!-- ======================= GITHUB ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=05+%E2%80%94+GITHUB+ACTIVITY" alt="GitHub activity" />
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JMMM11&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8052ff&icon_color=8052ff&text_color=c9d1d9&ring_color=8052ff" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMMM11&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8052ff&text_color=c9d1d9" height="170" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JMMM11&bg_color=0d1117&color=c4b5fd&line=8052ff&point=ffffff&area=true&area_color=8052ff&hide_border=true" width="95%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
+
+<!-- ======================= CONTRIBUTIONS ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=06+%E2%80%94+CONTRIBUTIONS" alt="Contributions" />
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JMMM11&theme=tokyonight&hide_border=true&background=0d1117&ring=8052ff&fire=8052ff&currStreakLabel=c4b5fd" width="75%" />
+
+<br><br>
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake-dark.svg" />
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake.svg" />
+
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake-dark.svg" width="95%" />
+
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
+
+<!-- ======================= MINDSET ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=500&height=45&lines=07+%E2%80%94+DEVELOPMENT+MINDSET" alt="Development mindset" />
+
+<table>
+<tr>
+
+<td width="20%" align="center">
+
+<h3>Design</h3>
+
+<sub>Make it intuitive.</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+<h3>Code</h3>
+
+<sub>Make it maintainable.</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+<h3>Performance</h3>
+
+<sub>Make it fast.</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+<h3>AI</h3>
+
+<sub>Make it useful.</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+<h3>Details</h3>
+
+<sub>Make it feel finished.</sub>
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
+
+<!-- ======================= PHILOSOPHY ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=08+%E2%80%94+PHILOSOPHY" alt="Philosophy" />
+
+<div align="center">
+
+I don't believe in adding technology simply because it is popular.
+
+<br>
+
+**Every tool should have a purpose.**
+
+<br><br>
+
+**Clean code**
+  +
+  
+**thoughtful design**
+  +
+  
+**useful functionality**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
+
+<!-- ======================= FOOTER ======================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=8052FF&center=true&vCenter=true&width=650&height=60&lines=Let's+build+something+great." alt="Let's build something great" />
+
+<br>
+
+Interested in technology, software, AI or building something interesting?
+
+<br><br>
+
+<a href="https://github.com/JMMM11">
+<img src="https://img.shields.io/badge/GitHub-JMMM11-8052ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+</a>
+
+<a href="https://react.dev/">
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+</a>
+
+<a href="https://supabase.com/">
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+</a>
+
+<br><br>
+
+`BUILD` · `LEARN` · `IMPROVE` · `REPEAT`
+
+<br>
+
+<sub>Code · Ideas · Real Impact</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8052ff,50:3b1f8f,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
+
+</div>
