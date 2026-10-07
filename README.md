@@ -165,10 +165,6 @@ $ status
 <img src="https://github-readme-stats.vercel.app/api?username=JMMM11&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8052ff&icon_color=8052ff&text_color=c9d1d9&ring_color=8052ff" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMMM11&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8052ff&text_color=c9d1d9" height="170" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JMMM11&bg_color=0d1117&color=c4b5fd&line=8052ff&point=ffffff&area=true&area_color=8052ff&hide_border=true" width="95%" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
