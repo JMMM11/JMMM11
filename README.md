@@ -246,8 +246,6 @@ OPCION B: tarjetas propias animadas
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/JMMM11/JMMM11/main/profile-3d-contrib/profile-night-view.svg" width="95%" alt="3D GitHub contribution calendar" />
-
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
