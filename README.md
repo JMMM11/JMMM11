@@ -224,8 +224,6 @@ OPCION B: tarjetas propias animadas
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JMMM11&bg_color=0d1117&color=ffc27a&line=ff7a18&point=fb923c&area=true&area_color=ff7a18&hide_border=true" width="95%" />
-
 </div>
 
 <!-- ======================= 06 ======================= -->
@@ -246,7 +244,6 @@ OPCION B: tarjetas propias animadas
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/JMMM11/JMMM11/main/profile-3d-contrib/profile-night-view.svg" width="95%" alt="3D GitHub contribution calendar" />
 
 </div>
 
