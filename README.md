@@ -1,193 +1,127 @@
 <!-- ============================================================
-  JMMM11 - Premium Developer Profile
-  Repo: github.com/JMMM11/JMMM11
-  Accent: #8052ff
+  JMMM11 - Profile README (v3, tema naranja)
+  Repo requerido: github.com/JMMM11/JMMM11
+  Archivos propios que usa este README (suelos en el repo):
+    assets/banner.svg    -> banner ASCII animado
+    assets/divider.svg   -> linea divisora animada
+  Acento: #ff7a18
 ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b1f8f,100:8052ff&height=240&section=header&text=JMMM11&fontSize=80&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Builder%20%C2%B7%20AI%20Explorer&descSize=18&descAlignY=58&descColor=c4b5fd" width="100%" alt="JMMM11 header" />
+<img src="assets/banner.svg" width="100%" alt="JMMM11 - Full-Stack Developer, Software Builder, AI Explorer" />
+
+<br>
 
 <a href="https://github.com/JMMM11">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8052FF&center=true&vCenter=true&width=680&height=50&lines=Building+digital+products+with+code+and+design;Exploring+AI+and+intelligent+interfaces;Creating+modern+full-stack+applications;Turning+ideas+into+real+products;Build+%C2%B7+Learn+%C2%B7+Improve+%C2%B7+Repeat" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF7A18&center=true&vCenter=true&width=640&height=50&lines=Building+digital+products+with+code+and+design;Exploring+AI+and+intelligent+interfaces;Writing+software+that+feels+finished;Build+%C2%B7+Learn+%C2%B7+Improve+%C2%B7+Repeat" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=JMMM11&label=PROFILE+VIEWS&color=8052ff&style=for-the-badge" alt="Profile views" />
-
-<a href="https://github.com/JMMM11?tab=followers">
-<img src="https://img.shields.io/github/followers/JMMM11?style=for-the-badge&logo=github&color=8052ff&labelColor=0d1117" alt="Followers" />
-</a>
-
-<a href="https://github.com/JMMM11?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-8052ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories" />
-</a>
-
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=JMMM11&label=Profile+views&color=ff7a18&style=for-the-badge" alt="views" />
+<a href="https://github.com/JMMM11?tab=followers"><img src="https://img.shields.io/github/followers/JMMM11?style=for-the-badge&logo=github&color=ff7a18&labelColor=0d1117" alt="followers" /></a>
+<a href="https://github.com/JMMM11?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-ff7a18?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="repos" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
+<br>
 
-<!-- ======================= ABOUT ======================= -->
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=01+%E2%80%94+ABOUT+ME" alt="About me" />
+<!-- ======================= 01 ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=FF7A18&width=435&height=45&lines=01+%E2%80%94+ABOUT+ME" alt="01 - ABOUT ME" />
 
 <table>
 <tr>
+<td width="55%" valign="top">
 
-<td width="62%" valign="top">
+I'm a developer focused on building **modern, functional and polished** digital experiences.
 
-### Building with purpose.
+I enjoy working across the entire product lifecycle: from the first idea and interface design to application logic, databases and intelligent features.
 
-I'm a developer focused on creating **modern, functional and polished digital experiences**.
-
-I enjoy working across the entire product lifecycle — from the initial idea and interface design to application logic, databases, APIs and intelligent features.
-
-My goal isn't simply to make software work.
-
+> **I don't just want to build software that works.**
 > **I want to build software that feels finished.**
 
-I care about **clean interfaces, maintainable code, useful functionality and meaningful details**.
-
 </td>
-
-<td width="38%" valign="top">
+<td width="45%" valign="top">
 
 ```text
-$ whoami
-
-> JMMM11
-
-$ focus --now
-
-> web applications
-> full-stack development
-> AI & intelligent interfaces
-> product design
-
-$ status
-
-> building
-> learning
-> shipping
+ ┌──────────────────────────────┐
+ │  JMMM11@github  ~  profile   │
+ ├──────────────────────────────┤
+ │  role     Full-Stack Dev     │
+ │  builds   web apps, mobile   │
+ │  exploring  AI interfaces    │
+ │  stack    React · Python     │
+ │           Supabase · Flutter │
+ │  motto    feel finished      │
+ │  status   ■ building         │
+ └──────────────────────────────┘
 ```
 
 </td>
-
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ======================= FOCUS ======================= -->
+<!-- ======================= 02 ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=02+%E2%80%94+CURRENT+FOCUS" alt="Current focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=FF7A18&width=435&height=45&lines=02+%E2%80%94+CURRENT+FOCUS" alt="02 - CURRENT FOCUS" />
 
 <table>
 <tr>
-
 <td width="25%" align="center">
-
 <h3>Building</h3>
-
-<sub>
-Web applications<br>
-and digital products
-</sub>
-
+<sub>Web applications<br>and digital products</sub>
 </td>
-
 <td width="25%" align="center">
-
 <h3>Exploring</h3>
-
-<sub>
-Artificial Intelligence<br>
-and intelligent interfaces
-</sub>
-
+<sub>Artificial Intelligence<br>and intelligent interfaces</sub>
 </td>
-
 <td width="25%" align="center">
-
 <h3>Developing</h3>
-
-<sub>
-Full-stack systems<br>
-and modern architectures
-</sub>
-
+<sub>Full-stack apps and<br>modern architectures</sub>
 </td>
-
 <td width="25%" align="center">
-
 <h3>Learning</h3>
-
-<sub>
-New technologies<br>
-and better practices
-</sub>
-
+<sub>New tech, dev practices<br>and product design</sub>
 </td>
-
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ======================= STACK ======================= -->
+<!-- ======================= 03 ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=03+%E2%80%94+TECH+STACK" alt="Tech stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=FF7A18&width=435&height=45&lines=03+%E2%80%94+TECH+STACK" alt="03 - TECH STACK" />
 
 <div align="center">
 
 <table>
 <tr>
-
-<td align="center" width="33%">
-
-<b>Frontend</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-<br>
-
+<td align="center" width="25%">
+<b>Frontend</b><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /><br>
 <sub>HTML · CSS · JavaScript · React</sub>
-
 </td>
-
-<td align="center" width="33%">
-
-<b>Backend</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-<br>
-
+<td align="center" width="25%">
+<b>Backend</b><br><br>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" /><br>
 <sub>Python · APIs · Authentication</sub>
-
 </td>
-
-<td align="center" width="33%">
-
-<b>Data & Infrastructure</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" />
-
-<br>
-
+<td align="center" width="25%">
+<b>Data</b><br><br>
+<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" /><br>
 <sub>PostgreSQL · Supabase · SQL</sub>
-
 </td>
-
+<td align="center" width="25%">
+<b>Mobile</b><br><br>
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" /><br>
+<sub>Flutter · Dart</sub>
+</td>
 </tr>
 </table>
 
@@ -195,227 +129,153 @@ and better practices
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
-<br><br>
-
-<sub>
-Git · GitHub · VS Code · Figma
-</sub>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
+<details>
+<summary><b>Ver la arquitectura de como construyo (clic para abrir)</b></summary>
 
-<!-- ======================= PROJECTS ======================= -->
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=04+%E2%80%94+PROJECTS" alt="Projects" />
+```text
+   [ UI / React / Flutter ]
+              │
+              ▼
+   [ API · Python · Auth ]
+              │
+              ▼
+   [ Supabase · PostgreSQL ]
+              │
+              ▼
+   [ Producto que se siente terminado ]
+```
 
-<div align="center">
+</details>
 
-<sub>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-Selected projects will appear here as they are built.
+<!-- ======================= 04 ======================= -->
 
-</sub>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=9CA3AF&center=true&vCenter=true&width=600&height=40&lines=Building+something+worth+showing...;Projects+will+be+added+as+they+are+completed.;Ideas+%E2%86%92+Code+%E2%86%92+Product" alt="Projects status" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=FF7A18&width=435&height=45&lines=04+%E2%80%94+PROJECTS" alt="04 - PROJECTS" />
 
 <!--
 ============================================================
-PROJECT TEMPLATE
-
-When you have a project, copy this structure:
+Cuando tengas un proyecto, descomenta la tabla y cambia
+REPO_NAME por el nombre exacto de tu repositorio.
+============================================================
 
 <table>
 <tr>
-
 <td width="50%">
-
-<a href="https://github.com/JMMM11/REPOSITORY_NAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8052ff&icon_color=8052ff" />
+<a href="https://github.com/JMMM11/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7a18&icon_color=ff7a18" />
 </a>
-
 </td>
-
 <td width="50%">
-
-### Project Name
-
-Short description of the project.
-
-`React` `Python` `PostgreSQL`
-
+<a href="https://github.com/JMMM11/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7a18&icon_color=ff7a18" />
+</a>
 </td>
-
 </tr>
 </table>
-
-============================================================
 -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
-
-<!-- ======================= GITHUB ======================= -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=05+%E2%80%94+GITHUB+ACTIVITY" alt="GitHub activity" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JMMM11&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8052ff&icon_color=8052ff&text_color=c9d1d9&ring_color=8052ff" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMMM11&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8052ff&text_color=c9d1d9" height="170" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JMMM11&bg_color=0d1117&color=c4b5fd&line=8052ff&point=ffffff&area=true&area_color=8052ff&hide_border=true" width="95%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=9CA3AF&center=true&vCenter=true&width=520&height=40&lines=Projects+will+be+added+here+as+they+are+completed...;Currently+building+something+good." alt="projects soon" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ======================= CONTRIBUTIONS ======================= -->
+<!-- ======================= 05 ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=06+%E2%80%94+CONTRIBUTIONS" alt="Contributions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=FF7A18&width=435&height=45&lines=05+%E2%80%94+GITHUB+ACTIVITY" alt="05 - GITHUB ACTIVITY" />
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JMMM11&theme=tokyonight&hide_border=true&background=0d1117&ring=8052ff&fire=8052ff&currStreakLabel=c4b5fd" width="75%" />
+<img src="https://github-readme-stats.vercel.app/api?username=JMMM11&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=ff7a18&icon_color=ff7a18&text_color=c9d1d9&ring_color=ff7a18" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMMM11&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=ff7a18&text_color=c9d1d9" height="170" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JMMM11&bg_color=0d1117&color=ffb870&line=ff7a18&point=ffffff&area=true&area_color=ff7a18&hide_border=true" width="95%" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<!-- ======================= 06 ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=FF7A18&width=435&height=45&lines=06+%E2%80%94+CONTRIBUTIONS" alt="06 - CONTRIBUTIONS" />
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JMMM11&theme=tokyonight&hide_border=true&background=0d1117&ring=ff7a18&fire=ff7a18&currStreakLabel=ffb870&sideLabels=ffb870" width="75%" />
 
 <br><br>
 
 <picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake-dark.svg" />
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake.svg" />
-
-<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake-dark.svg" width="95%" />
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake-dark.svg" width="95%" />
 </picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ======================= MINDSET ======================= -->
+<!-- ======================= 07 ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=500&height=45&lines=07+%E2%80%94+DEVELOPMENT+MINDSET" alt="Development mindset" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=FF7A18&width=500&height=45&lines=07+%E2%80%94+DEVELOPMENT+MINDSET" alt="07 - DEVELOPMENT MINDSET" />
 
 <table>
 <tr>
-
-<td width="20%" align="center">
-
-<h3>Design</h3>
-
-<sub>Make it intuitive.</sub>
-
-</td>
-
-<td width="20%" align="center">
-
-<h3>Code</h3>
-
-<sub>Make it maintainable.</sub>
-
-</td>
-
-<td width="20%" align="center">
-
-<h3>Performance</h3>
-
-<sub>Make it fast.</sub>
-
-</td>
-
-<td width="20%" align="center">
-
-<h3>AI</h3>
-
-<sub>Make it useful.</sub>
-
-</td>
-
-<td width="20%" align="center">
-
-<h3>Details</h3>
-
-<sub>Make it feel finished.</sub>
-
-</td>
-
+<td width="20%" align="center"><h3>Design</h3><sub>Make it intuitive.</sub></td>
+<td width="20%" align="center"><h3>Code</h3><sub>Make it maintainable.</sub></td>
+<td width="20%" align="center"><h3>Performance</h3><sub>Make it fast.</sub></td>
+<td width="20%" align="center"><h3>AI</h3><sub>Make it useful.</sub></td>
+<td width="20%" align="center"><h3>Details</h3><sub>Make it feel finished.</sub></td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ======================= PHILOSOPHY ======================= -->
+<!-- ======================= 08 ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=8052FF&width=435&height=45&lines=08+%E2%80%94+PHILOSOPHY" alt="Philosophy" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=FF7A18&width=435&height=45&lines=08+%E2%80%94+PHILOSOPHY" alt="08 - PHILOSOPHY" />
 
 <div align="center">
 
 I don't believe in adding technology simply because it is popular.
+Every tool should have a purpose.
 
 <br>
 
-**Every tool should have a purpose.**
-
-<br><br>
-
-**Clean code**
-  +
-  
-**thoughtful design**
-  +
-  
-**useful functionality**
+**Clean code &nbsp;+&nbsp; thoughtful design &nbsp;+&nbsp; useful functionality**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8052ff,100:0d1117&height=2&section=header" width="100%" alt="divider" />
-
-<!-- ======================= FOOTER ======================= -->
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=8052FF&center=true&vCenter=true&width=650&height=60&lines=Let's+build+something+great." alt="Let's build something great" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=FF7A18&center=true&vCenter=true&width=600&height=60&lines=Let's+build+something+great." alt="Let's build something great" />
 
 Interested in technology, software, AI or building something interesting?
 
-<br><br>
+<br>
 
-<a href="https://github.com/JMMM11">
-<img src="https://img.shields.io/badge/GitHub-JMMM11-8052ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
-</a>
-
-<a href="https://react.dev/">
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-</a>
-
-<a href="https://supabase.com/">
-<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-</a>
+<a href="https://github.com/JMMM11"><img src="https://img.shields.io/badge/GitHub-JMMM11-ff7a18?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /></a>
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" /></a>
 
 <br><br>
 
 `BUILD` · `LEARN` · `IMPROVE` · `REPEAT`
 
-<br>
-
 <sub>Code · Ideas · Real Impact</sub>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8052ff,50:3b1f8f,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,50:c2410c,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
