@@ -5,7 +5,8 @@
     assets/banner.svg    -> banner ASCII animado
     assets/divider.svg   -> linea divisora animada
     assets/web-workspace.svg -> espacio de desarrollo web animado
-  Paleta: violet · cyan · blue · emerald · amber
+    assets/build-loop.svg    -> proceso de desarrollo animado
+  Principal: #ff7a18 · secundarios para títulos y detalles
 ============================================================ -->
 
 <div align="center">
@@ -15,14 +16,14 @@
 <br>
 
 <a href="https://github.com/JMMM11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Building+web+experiences+for+the+desktop;Turning+ideas+into+polished+applications;Exploring+AI+and+intelligent+interfaces;Build+%C2%B7+Learn+%C2%B7+Improve+%C2%B7+Repeat" alt="Building web experiences for the desktop" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=FF7A18&center=true&vCenter=true&width=700&height=50&lines=Building+web+experiences+for+the+desktop;Turning+ideas+into+polished+applications;Exploring+AI+and+intelligent+interfaces;Build+%C2%B7+Learn+%C2%B7+Improve+%C2%B7+Repeat" alt="Building web experiences for the desktop" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=JMMM11&label=Profile+views&color=8b5cf6&style=for-the-badge" alt="views" />
-<a href="https://github.com/JMMM11?tab=followers"><img src="https://img.shields.io/github/followers/JMMM11?style=for-the-badge&logo=github&color=0891b2&labelColor=0d1117" alt="followers" /></a>
-<a href="https://github.com/JMMM11?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-10b981?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="repos" /></a>
+<img src="https://komarev.com/ghpvc/?username=JMMM11&label=Profile+views&color=ff7a18&style=for-the-badge" alt="views" />
+<a href="https://github.com/JMMM11?tab=followers"><img src="https://img.shields.io/github/followers/JMMM11?style=for-the-badge&logo=github&color=ff7a18&labelColor=0d1117" alt="followers" /></a>
+<a href="https://github.com/JMMM11?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-ff7a18?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="repos" /></a>
 
 </div>
 
@@ -131,6 +132,14 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 
 </details>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=100000&color=22D3EE&center=true&vCenter=true&width=600&height=40&lines=HOW+I+TURN+IDEAS+INTO+PRODUCTS" alt="How I turn ideas into products" />
+
+<img src="assets/build-loop.svg" width="100%" alt="Animated development process: idea, design, build and refine" />
+
+</div>
+
 <!-- ======================= 04 ======================= -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=F472B6&width=435&height=45&lines=04+%E2%80%94+PROJECTS" alt="04 - PROJECTS" />
@@ -145,12 +154,12 @@ REPO_NAME por el nombre exacto de tu repositorio.
 <tr>
 <td width="50%">
 <a href="https://github.com/JMMM11/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=22d3ee" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7a18&icon_color=ff7a18" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/JMMM11/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=22d3ee" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7a18&icon_color=ff7a18" />
 </a>
 </td>
 </tr>
@@ -171,12 +180,12 @@ REPO_NAME por el nombre exacto de tu repositorio.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JMMM11&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&ring_color=34d399" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMMM11&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=JMMM11&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=ff7a18&icon_color=ff7a18&text_color=c9d1d9&ring_color=ff7a18" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMMM11&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=ff7a18&text_color=c9d1d9" height="170" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JMMM11&bg_color=0d1117&color=67e8f9&line=8b5cf6&point=34d399&area=true&area_color=8b5cf6&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JMMM11&bg_color=0d1117&color=ffb870&line=ff7a18&point=ffffff&area=true&area_color=ff7a18&hide_border=true" width="95%" />
 
 </div>
 
@@ -186,7 +195,7 @@ REPO_NAME por el nombre exacto de tu repositorio.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JMMM11&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=f472b6&currStreakLabel=22d3ee&sideLabels=a78bfa" width="75%" />
+<img src="https://streak-stats.demolab.com?user=JMMM11&theme=tokyonight&hide_border=true&background=0d1117&ring=ff7a18&fire=ff7a18&currStreakLabel=ffb870&sideLabels=ffb870" width="75%" />
 
 <br><br>
 
@@ -198,7 +207,7 @@ REPO_NAME por el nombre exacto de tu repositorio.
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/JMMM11/JMMM11/main/profile-3d-contrib/profile-night-view.svg" width="95%" alt="3D GitHub contribution calendar" />
+<img src="./profile-3d-contrib/profile-orange.svg" width="95%" alt="Orange 3D GitHub contribution calendar" />
 
 </div>
 
@@ -243,8 +252,8 @@ Interested in technology, software, AI or building something interesting?
 
 <br>
 
-<a href="https://github.com/JMMM11"><img src="https://img.shields.io/badge/GitHub-JMMM11-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
-<a href="mailto:jairm9010@gmail.com"><img src="https://img.shields.io/badge/Email-jairm9010%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email jairm9010@gmail.com" /></a>
+<a href="https://github.com/JMMM11"><img src="https://img.shields.io/badge/GitHub-JMMM11-ff7a18?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
+<a href="mailto:jairm9010@gmail.com"><img src="https://img.shields.io/badge/Email-jairm9010%40gmail.com-ff7a18?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email jairm9010@gmail.com" /></a>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /></a>
 
@@ -254,6 +263,6 @@ Interested in technology, software, AI or building something interesting?
 
 <sub>Code · Ideas · Real Impact</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,45:8b5cf6,75:f472b6,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,50:c2410c,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>

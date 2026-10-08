@@ -1,0 +1,32 @@
+{
+  "type": "normal",
+  "fileName": "profile-orange.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#0d1117",
+  "strongColor": "#7c2d12",
+  "weakColor": "#6b7280",
+  "radarColor": "#f97316",
+  "growingAnimation": true,
+  "contribColors": [
+    "#f3f4f6",
+    "#ffedd5",
+    "#fdba74",
+    "#fb923c",
+    "#c2410c"
+  ],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#f9fafb",
+    "strongColor": "#fdba74",
+    "weakColor": "#94a3b8",
+    "radarColor": "#ff7a18",
+    "contribColors": [
+      "#21262d",
+      "#4a2308",
+      "#8a3f0c",
+      "#d9660f",
+      "#ff7a18"
+    ]
+  }
+}
