@@ -1,11 +1,6 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - ".github/workflows/profile-3d.yml"
-      - ".github/profile-3d-orange.json"
   schedule:
     # 03:00 in Panama (UTC-5)
     - cron: "0 8 * * *"
@@ -31,7 +26,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: .github/profile-3d-orange.json
 
       - name: Commit generated SVGs
         run: |
