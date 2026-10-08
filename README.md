@@ -1,11 +1,15 @@
 <!-- ============================================================
-  JMMM11 - Profile README (tema aurora)
+  JMMM11 - Profile README (tema naranja, v5)
   Repo requerido: github.com/JMMM11/JMMM11
-  Archivos propios que usa este README (suelos en el repo):
-    assets/banner.svg    -> banner ASCII animado
-    assets/divider.svg   -> linea divisora animada
-    assets/web-workspace.svg -> espacio de desarrollo web animado
-  Paleta: violet · cyan · blue · emerald · amber
+  Archivos propios que usa este README (van en la carpeta assets/):
+    assets/banner.svg         -> banner ASCII animado
+    assets/divider.svg        -> linea divisora animada
+    assets/web-workspace.svg  -> espacio de desarrollo web animado
+    assets/now.svg            -> terminal de estado actual
+    assets/tech-orbit.svg     -> tecnologias orbitando
+    assets/skills.svg         -> barras de enfoque animadas
+    assets/project-card.svg   -> plantilla de tarjeta de proyecto
+  Paleta: naranja (#ff7a18) · ambar · coral · durazno
 ============================================================ -->
 
 <div align="center">
@@ -15,14 +19,14 @@
 <br>
 
 <a href="https://github.com/JMMM11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Building+web+experiences+for+the+desktop;Turning+ideas+into+polished+applications;Exploring+AI+and+intelligent+interfaces;Build+%C2%B7+Learn+%C2%B7+Improve+%C2%B7+Repeat" alt="Building web experiences for the desktop" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=ff9a3c&center=true&vCenter=true&width=700&height=50&lines=Building+web+experiences+for+the+desktop;Turning+ideas+into+polished+applications;Exploring+AI+and+intelligent+interfaces;Build+%C2%B7+Learn+%C2%B7+Improve+%C2%B7+Repeat" alt="Building web experiences for the desktop" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=JMMM11&label=Profile+views&color=8b5cf6&style=for-the-badge" alt="views" />
-<a href="https://github.com/JMMM11?tab=followers"><img src="https://img.shields.io/github/followers/JMMM11?style=for-the-badge&logo=github&color=0891b2&labelColor=0d1117" alt="followers" /></a>
-<a href="https://github.com/JMMM11?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-10b981?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="repos" /></a>
+<img src="https://komarev.com/ghpvc/?username=JMMM11&label=Profile+views&color=ff7a18&style=for-the-badge" alt="views" />
+<a href="https://github.com/JMMM11?tab=followers"><img src="https://img.shields.io/github/followers/JMMM11?style=for-the-badge&logo=github&color=c2410c&labelColor=0d1117" alt="followers" /></a>
+<a href="https://github.com/JMMM11?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-f97316?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="repos" /></a>
 
 </div>
 
@@ -32,7 +36,7 @@
 
 <!-- ======================= 01 ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=22D3EE&width=435&height=45&lines=01+%E2%80%94+ABOUT+ME" alt="01 - ABOUT ME" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=ffc27a&width=435&height=45&lines=01+%E2%80%94+ABOUT+ME" alt="01 - ABOUT ME" />
 
 <table>
 <tr>
@@ -56,7 +60,7 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 
 <!-- ======================= 02 ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=34D399&width=435&height=45&lines=02+%E2%80%94+CURRENT+FOCUS" alt="02 - CURRENT FOCUS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=fb923c&width=435&height=45&lines=02+%E2%80%94+CURRENT+FOCUS" alt="02 - CURRENT FOCUS" />
 
 <table>
 <tr>
@@ -79,11 +83,25 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 </tr>
 </table>
 
+<div align="center">
+
+<br>
+
+<img src="assets/now.svg" width="80%" alt="Current status terminal" />
+
+</div>
+
+<br>
+
 <!-- ======================= 03 ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=A78BFA&width=435&height=45&lines=03+%E2%80%94+TECH+STACK" alt="03 - TECH STACK" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=ff9a3c&width=435&height=45&lines=03+%E2%80%94+TECH+STACK" alt="03 - TECH STACK" />
 
 <div align="center">
+
+<img src="assets/tech-orbit.svg" width="68%" alt="Technologies orbiting around web development" />
+
+<br><br>
 
 <table>
 <tr>
@@ -109,6 +127,10 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
+<br><br>
+
+<img src="assets/skills.svg" width="80%" alt="Skill focus bars" />
+
 </div>
 
 <details>
@@ -131,30 +153,56 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 
 </details>
 
+<br>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 <!-- ======================= 04 ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=F472B6&width=435&height=45&lines=04+%E2%80%94+PROJECTS" alt="04 - PROJECTS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=ea580c&width=435&height=45&lines=04+%E2%80%94+PROJECTS" alt="04 - PROJECTS" />
 
 <!--
 ============================================================
-Cuando tengas un proyecto, descomenta la tabla y cambia
-REPO_NAME por el nombre exacto de tu repositorio.
-============================================================
+Cuando tengas un proyecto, descomenta UNA de las dos opciones.
+
+OPCION A: tarjetas automaticas de GitHub
+Cambia REPO_NAME por el nombre exacto de tu repositorio.
 
 <table>
 <tr>
 <td width="50%">
 <a href="https://github.com/JMMM11/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=22d3ee" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ea580c&icon_color=ffc27a" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/JMMM11/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=22d3ee" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ea580c&icon_color=ffc27a" />
 </a>
 </td>
 </tr>
 </table>
+
+OPCION B: tarjetas propias animadas
+1. Copia assets/project-card.svg como assets/project-1.svg y assets/project-2.svg
+2. Edita en cada una el titulo, la descripcion y las etiquetas
+3. Cambia NOMBRE_REPO por el nombre exacto de tu repositorio
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/JMMM11/NOMBRE_REPO">
+  <img src="assets/project-1.svg" width="100%" alt="Project 1" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/JMMM11/NOMBRE_REPO_2">
+  <img src="assets/project-2.svg" width="100%" alt="Project 2" />
+</a>
+</td>
+</tr>
+</table>
+============================================================
 -->
 
 <div align="center">
@@ -167,26 +215,26 @@ REPO_NAME por el nombre exacto de tu repositorio.
 
 <!-- ======================= 05 ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=60A5FA&width=435&height=45&lines=05+%E2%80%94+GITHUB+ACTIVITY" alt="05 - GITHUB ACTIVITY" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=fdba74&width=435&height=45&lines=05+%E2%80%94+GITHUB+ACTIVITY" alt="05 - GITHUB ACTIVITY" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JMMM11&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&ring_color=34d399" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMMM11&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=JMMM11&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=ff9a3c&icon_color=ffc27a&text_color=c9d1d9&ring_color=fb923c" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMMM11&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=ffc27a&text_color=c9d1d9" height="170" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JMMM11&bg_color=0d1117&color=67e8f9&line=8b5cf6&point=34d399&area=true&area_color=8b5cf6&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JMMM11&bg_color=0d1117&color=ffc27a&line=ff7a18&point=fb923c&area=true&area_color=ff7a18&hide_border=true" width="95%" />
 
 </div>
 
 <!-- ======================= 06 ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=2DD4BF&width=435&height=45&lines=06+%E2%80%94+CONTRIBUTIONS" alt="06 - CONTRIBUTIONS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=ff9a3c&width=435&height=45&lines=06+%E2%80%94+CONTRIBUTIONS" alt="06 - CONTRIBUTIONS" />
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JMMM11&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=f472b6&currStreakLabel=22d3ee&sideLabels=a78bfa" width="75%" />
+<img src="https://streak-stats.demolab.com?user=JMMM11&theme=tokyonight&hide_border=true&background=0d1117&ring=ff7a18&fire=ea580c&currStreakLabel=ffc27a&sideLabels=ff9a3c" width="75%" />
 
 <br><br>
 
@@ -220,7 +268,7 @@ REPO_NAME por el nombre exacto de tu repositorio.
 
 <!-- ======================= 08 ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=C084FC&width=435&height=45&lines=08+%E2%80%94+PHILOSOPHY" alt="08 - PHILOSOPHY" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=fb923c&width=435&height=45&lines=08+%E2%80%94+PHILOSOPHY" alt="08 - PHILOSOPHY" />
 
 <div align="center">
 
@@ -237,14 +285,14 @@ Every tool should have a purpose.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=22D3EE&center=true&vCenter=true&width=600&height=60&lines=Let's+build+something+great." alt="Let's build something great" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=ffc27a&center=true&vCenter=true&width=600&height=60&lines=Let's+build+something+great." alt="Let's build something great" />
 
 Interested in technology, software, AI or building something interesting?
 
 <br>
 
-<a href="https://github.com/JMMM11"><img src="https://img.shields.io/badge/GitHub-JMMM11-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
-<a href="mailto:jairm9010@gmail.com"><img src="https://img.shields.io/badge/Email-jairm9010%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email jairm9010@gmail.com" /></a>
+<a href="https://github.com/JMMM11"><img src="https://img.shields.io/badge/GitHub-JMMM11-ff7a18?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
+<a href="mailto:jairm9010@gmail.com"><img src="https://img.shields.io/badge/Email-jairm9010%40gmail.com-ea580c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email jairm9010@gmail.com" /></a>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /></a>
 
@@ -254,6 +302,6 @@ Interested in technology, software, AI or building something interesting?
 
 <sub>Code · Ideas · Real Impact</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,45:8b5cf6,75:f472b6,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc27a,45:ff7a18,75:ea580c,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
