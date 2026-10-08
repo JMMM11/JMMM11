@@ -1,27 +1,40 @@
 <!-- ============================================================
-  JMMM11 - Profile README (v3, tema naranja)
-  Repo requerido: github.com/JMMM11/JMMM11
-  Archivos propios que usa este README (suelos en el repo):
-    assets/banner.svg    -> banner ASCII animado
-    assets/divider.svg   -> linea divisora animada
-  Acento: #ff7a18
-============================================================ -->
+     JMMM11 - Profile README
+     Premium Developer Profile
+     Accent: #ff7a18
+
+     Repo requerido:
+     github.com/JMMM11/JMMM11
+
+     Archivos propios:
+     assets/banner.svg
+     assets/divider.svg
+     assets/web-workspace.svg
+     ============================================================ -->
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="JMMM11 - Full-Stack Developer, Software Builder, AI Explorer" />
+<img src="assets/banner.svg" width="100%" alt="JMMM11 - Web Application Developer, Software Builder, AI Explorer" />
 
 <br>
 
 <a href="https://github.com/JMMM11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF7A18&center=true&vCenter=true&width=640&height=50&lines=Building+digital+products+with+code+and+design;Exploring+AI+and+intelligent+interfaces;Writing+software+that+feels+finished;Build+%C2%B7+Learn+%C2%B7+Improve+%C2%B7+Repeat" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=FF7A18&center=true&vCenter=true&width=700&height=50&lines=Building+web+experiences+for+the+desktop;Turning+ideas+into+polished+applications;Exploring+AI+and+intelligent+interfaces;Build+%C2%B7+Learn+%C2%B7+Improve+%C2%B7+Repeat" alt="Building web experiences for the desktop" />
+
 </a>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=JMMM11&label=Profile+views&color=ff7a18&style=for-the-badge" alt="views" />
-<a href="https://github.com/JMMM11?tab=followers"><img src="https://img.shields.io/github/followers/JMMM11?style=for-the-badge&logo=github&color=ff7a18&labelColor=0d1117" alt="followers" /></a>
-<a href="https://github.com/JMMM11?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-ff7a18?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="repos" /></a>
+
+<a href="https://github.com/JMMM11?tab=followers">
+<img src="https://img.shields.io/github/followers/JMMM11?style=for-the-badge&logo=github&color=ff7a18&labelColor=0d1117" alt="followers" />
+</a>
+
+<a href="https://github.com/JMMM11?tab=repositories">
+<img src="https://img.shields.io/badge/Repos-Explore-ff7a18?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="repos" />
+</a>
 
 </div>
 
@@ -35,37 +48,27 @@
 
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
-I'm a developer focused on building **modern, functional and polished** digital experiences.
+I'm a developer focused on building **modern, functional and polished web experiences** designed to work beautifully on computers.
 
 I enjoy working across the entire product lifecycle: from the first idea and interface design to application logic, databases and intelligent features.
 
 > **I don't just want to build software that works.**
+
 > **I want to build software that feels finished.**
 
 </td>
+
 <td width="45%" valign="top">
 
-```text
- ┌──────────────────────────────┐
- │  JMMM11@github  ~  profile   │
- ├──────────────────────────────┤
- │  role     Full-Stack Dev     │
- │  builds   web apps, mobile   │
- │  exploring  AI interfaces    │
- │  stack    React · Python     │
- │           Supabase · Flutter │
- │  motto    feel finished      │
- │  status   ■ building         │
- └──────────────────────────────┘
-```
+<img src="assets/web-workspace.svg" width="100%" alt="Animated desktop web development workspace" />
 
 </td>
+
 </tr>
 </table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ======================= 02 ======================= -->
 
@@ -73,26 +76,53 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 
 <table>
 <tr>
+
 <td width="25%" align="center">
+
 <h3>Building</h3>
-<sub>Web applications<br>and digital products</sub>
+
+<sub>
+Web applications<br>
+and digital products
+</sub>
+
 </td>
+
 <td width="25%" align="center">
+
 <h3>Exploring</h3>
-<sub>Artificial Intelligence<br>and intelligent interfaces</sub>
+
+<sub>
+Artificial Intelligence<br>
+and intelligent interfaces
+</sub>
+
 </td>
+
 <td width="25%" align="center">
+
 <h3>Developing</h3>
-<sub>Full-stack apps and<br>modern architectures</sub>
+
+<sub>
+Full-stack apps and<br>
+modern architectures
+</sub>
+
 </td>
+
 <td width="25%" align="center">
+
 <h3>Learning</h3>
-<sub>New tech, dev practices<br>and product design</sub>
+
+<sub>
+New tech, dev practices<br>
+and product design
+</sub>
+
 </td>
+
 </tr>
 </table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ======================= 03 ======================= -->
 
@@ -102,26 +132,55 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 
 <table>
 <tr>
-<td align="center" width="25%">
-<b>Frontend</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /><br>
-<sub>HTML · CSS · JavaScript · React</sub>
+
+<td align="center" width="33%">
+
+<b>Frontend</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+<br>
+
+<sub>
+HTML · CSS · JavaScript · React
+</sub>
+
 </td>
-<td align="center" width="25%">
-<b>Backend</b><br><br>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" /><br>
-<sub>Python · APIs · Authentication</sub>
+
+<td align="center" width="33%">
+
+<b>Backend</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+<br>
+
+<sub>
+Python · APIs · Authentication
+</sub>
+
 </td>
-<td align="center" width="25%">
-<b>Data</b><br><br>
-<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" /><br>
-<sub>PostgreSQL · Supabase · SQL</sub>
+
+<td align="center" width="34%">
+
+<b>Data</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" />
+
+<br>
+
+<sub>
+PostgreSQL · Supabase · SQL
+</sub>
+
 </td>
-<td align="center" width="25%">
-<b>Mobile</b><br><br>
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" /><br>
-<sub>Flutter · Dart</sub>
-</td>
+
 </tr>
 </table>
 
@@ -131,27 +190,28 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 
 </div>
 
+<br>
+
 <details>
+
 <summary><b>Ver la arquitectura de como construyo (clic para abrir)</b></summary>
 
 <br>
 
 ```text
-   [ UI / React / Flutter ]
+    [ UI / React / Responsive Web ]
               │
               ▼
-   [ API · Python · Auth ]
+    [ API · Python · Auth ]
               │
               ▼
-   [ Supabase · PostgreSQL ]
+    [ Supabase · PostgreSQL ]
               │
               ▼
-   [ Producto que se siente terminado ]
+    [ Producto que se siente terminado ]
 ```
 
 </details>
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ======================= 04 ======================= -->
 
@@ -159,24 +219,46 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 
 <!--
 ============================================================
-Cuando tengas un proyecto, descomenta la tabla y cambia
-REPO_NAME por el nombre exacto de tu repositorio.
+PROYECTOS
+
+Esta sección está vacía intencionalmente.
+
+Cuando tengas un proyecto:
+
+1. Copia una tarjeta.
+2. Cambia REPO_NAME.
+3. Cambia la descripción.
+4. Cambia las tecnologías.
+
 ============================================================
 
 <table>
 <tr>
+
 <td width="50%">
+
 <a href="https://github.com/JMMM11/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7a18&icon_color=ff7a18" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7a18&icon_color=ff7a18" />
+
 </a>
+
 </td>
+
 <td width="50%">
+
 <a href="https://github.com/JMMM11/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7a18&icon_color=ff7a18" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7a18&icon_color=ff7a18" />
+
 </a>
+
 </td>
+
 </tr>
 </table>
+
+============================================================
 -->
 
 <div align="center">
@@ -194,6 +276,7 @@ REPO_NAME por el nombre exacto de tu repositorio.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JMMM11&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=ff7a18&icon_color=ff7a18&text_color=c9d1d9&ring_color=ff7a18" height="170" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMMM11&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=ff7a18&text_color=c9d1d9" height="170" />
 
 <br><br>
@@ -201,8 +284,6 @@ REPO_NAME por el nombre exacto de tu repositorio.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JMMM11&bg_color=0d1117&color=ffb870&line=ff7a18&point=ffffff&area=true&area_color=ff7a18&hide_border=true" width="95%" />
 
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ======================= 06 ======================= -->
 
@@ -214,11 +295,41 @@ REPO_NAME por el nombre exacto de tu repositorio.
 
 <br><br>
 
+<!-- ================= GITHUB SNAKE ================= -->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake-dark.svg" width="95%" />
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake.svg"
+/>
+
+<img
+alt="snake animation"
+src="https://raw.githubusercontent.com/JMMM11/JMMM11/output/github-snake-dark.svg"
+width="95%"
+/>
+
 </picture>
+
+<!-- ================= 3D CONTRIBUTIONS ================= -->
+
+<br><br>
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/JMMM11/JMMM11/main/profile-3d-contrib/profile-night-view.svg"
+width="95%"
+alt="3D contributions"
+/>
+
+</div>
 
 </div>
 
@@ -230,15 +341,59 @@ REPO_NAME por el nombre exacto de tu repositorio.
 
 <table>
 <tr>
-<td width="20%" align="center"><h3>Design</h3><sub>Make it intuitive.</sub></td>
-<td width="20%" align="center"><h3>Code</h3><sub>Make it maintainable.</sub></td>
-<td width="20%" align="center"><h3>Performance</h3><sub>Make it fast.</sub></td>
-<td width="20%" align="center"><h3>AI</h3><sub>Make it useful.</sub></td>
-<td width="20%" align="center"><h3>Details</h3><sub>Make it feel finished.</sub></td>
+
+<td width="20%" align="center">
+
+<h3>Design</h3>
+
+<sub>
+Make it intuitive.
+</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+<h3>Code</h3>
+
+<sub>
+Make it maintainable.
+</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+<h3>Performance</h3>
+
+<sub>
+Make it fast.
+</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+<h3>AI</h3>
+
+<sub>
+Make it useful.
+</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+<h3>Details</h3>
+
+<sub>
+Make it feel finished.
+</sub>
+
+</td>
+
 </tr>
 </table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ======================= 08 ======================= -->
 
@@ -247,9 +402,10 @@ REPO_NAME por el nombre exacto de tu repositorio.
 <div align="center">
 
 I don't believe in adding technology simply because it is popular.
+
 Every tool should have a purpose.
 
-<br>
+<br><br>
 
 **Clean code &nbsp;+&nbsp; thoughtful design &nbsp;+&nbsp; useful functionality**
 
@@ -257,25 +413,62 @@ Every tool should have a purpose.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
+<!-- ======================= FINAL ======================= -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=FF7A18&center=true&vCenter=true&width=600&height=60&lines=Let's+build+something+great." alt="Let's build something great" />
-
-Interested in technology, software, AI or building something interesting?
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=FF7A18&center=true&vCenter=true&width=600&height=60&lines=Let's+build+something+great."
+alt="Let's build something great"
+/>
 
 <br>
 
-<a href="https://github.com/JMMM11"><img src="https://img.shields.io/badge/GitHub-JMMM11-ff7a18?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /></a>
-<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" /></a>
+Interested in technology, software, AI or building something interesting?
+
+<br><br>
+
+<a href="https://github.com/JMMM11">
+
+<img
+src="https://img.shields.io/badge/GitHub-JMMM11-ff7a18?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"
+alt="GitHub"
+/>
+
+</a>
+
+<a href="https://react.dev/">
+
+<img
+src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"
+alt="React"
+/>
+
+</a>
+
+<a href="https://www.python.org/">
+
+<img
+src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"
+alt="Python"
+/>
+
+</a>
 
 <br><br>
 
 `BUILD` · `LEARN` · `IMPROVE` · `REPEAT`
 
+<br>
+
 <sub>Code · Ideas · Real Impact</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,50:c2410c,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
+<br><br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,50:c2410c,100:0d1117&height=120&section=footer&animation=twinkling"
+width="100%"
+alt="footer"
+/>
 
 </div>

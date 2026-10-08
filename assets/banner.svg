@@ -48,7 +48,7 @@
     <animate attributeName="x" values="46;60" dur="0.5s" begin="1.7000000000000002s" fill="freeze"/>
   </text>
   </g>
-  <text x="380" y="246" text-anchor="middle" class="sub" opacity="0">Full-Stack Developer  ·  Software Builder  ·  AI Explorer<tspan class="cur" fill-opacity="0"> _<animate attributeName="fill-opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.51;1" dur="1s" begin="3s" repeatCount="indefinite"/></tspan>
+  <text x="380" y="246" text-anchor="middle" class="sub" opacity="0">Web Application Developer  ·  Software Builder  ·  AI Explorer<tspan class="cur" fill-opacity="0"> _<animate attributeName="fill-opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.51;1" dur="1s" begin="3s" repeatCount="indefinite"/></tspan>
     <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="2.2s" fill="freeze"/>
   </text>
 </svg>
