@@ -107,25 +107,25 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 <tr>
 <td align="center" width="33%">
 <b>Frontend</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /><br>
-<sub>HTML · CSS · JavaScript · React</sub>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br>
+<sub>HTML · CSS · JavaScript</sub>
 </td>
 <td align="center" width="33%">
 <b>Backend</b><br><br>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" /><br>
-<sub>Python · APIs · Authentication</sub>
+<img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark" /><br>
+<sub>Python · Java · C++ · APIs · Authentication</sub>
 </td>
 <td align="center" width="34%">
 <b>Data</b><br><br>
-<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" /><br>
-<sub>PostgreSQL · Supabase · SQL</sub>
+<img src="https://skillicons.dev/icons?i=supabase,firebase&theme=dark" /><br>
+<sub>Supabase · Firebase · SQL</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark" />
 
 <br><br>
 
@@ -139,13 +139,13 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 <br>
 
 ```text
-   [ UI / React / Responsive Web ]
+   [ UI / Responsive Web ]
               │
               ▼
    [ API · Python · Auth ]
               │
               ▼
-   [ Supabase · PostgreSQL ]
+   [ Supabase · Firebase ]
               │
               ▼
    [ Producto que se siente terminado ]
@@ -246,6 +246,8 @@ OPCION B: tarjetas propias animadas
 
 <br><br>
 
+<img src="https://raw.githubusercontent.com/JMMM11/JMMM11/main/profile-3d-contrib/profile-night-view.svg" width="95%" alt="3D GitHub contribution calendar" />
+
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -291,7 +293,7 @@ Interested in technology, software, AI or building something interesting?
 
 <a href="https://github.com/JMMM11"><img src="https://img.shields.io/badge/GitHub-JMMM11-ff7a18?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
 <a href="mailto:jairm9010@gmail.com"><img src="https://img.shields.io/badge/Email-jairm9010%40gmail.com-ea580c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email jairm9010@gmail.com" /></a>
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" /></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /></a>
 
 <br><br>
