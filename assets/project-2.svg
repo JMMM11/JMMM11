@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="230" viewBox="0 0 440 230" role="img" aria-label="Hydronexis: Hydroponics platform that helps families grow fresh food at home, with a marketplace for local exchange and collaboration.">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff7a18"/><stop offset="0.5" stop-color="#ffc27a"/><stop offset="1" stop-color="#fb923c"/>
+    </linearGradient>
+    <radialGradient id="h" cx="0.86" cy="0.12" r="0.6">
+      <stop offset="0" stop-color="#ff7a18" stop-opacity="0.16"/><stop offset="1" stop-color="#ff7a18" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .n { font-family: "Cascadia Code","Cascadia Mono",Consolas,Menlo,"DejaVu Sans Mono","Courier New",monospace; font-size: 12px; font-weight: 700; fill: #ff9a3c; letter-spacing: 2px; }
+    .t { font-family: "Cascadia Code","Cascadia Mono",Consolas,Menlo,"DejaVu Sans Mono","Courier New",monospace; font-size: 19px; font-weight: 700; fill: #f0f6fc; }
+    .d { font-family: "Cascadia Code","Cascadia Mono",Consolas,Menlo,"DejaVu Sans Mono","Courier New",monospace; font-size: 12.5px; fill: #8b949e; }
+    .g { font-family: "Cascadia Code","Cascadia Mono",Consolas,Menlo,"DejaVu Sans Mono","Courier New",monospace; font-size: 12px; font-weight: 700; }
+    .l { font-family: "Cascadia Code","Cascadia Mono",Consolas,Menlo,"DejaVu Sans Mono","Courier New",monospace; font-size: 13px; fill: #ffc27a; }
+    .m { font-family: "Cascadia Code","Cascadia Mono",Consolas,Menlo,"DejaVu Sans Mono","Courier New",monospace; font-size: 12px; fill: #8b949e; }
+  </style>
+  <rect width="440" height="230" rx="14" fill="#0d1117"/>
+  <rect width="440" height="230" rx="14" fill="url(#h)"/>
+  <rect x="1.5" y="1.5" width="437" height="227" rx="13" fill="none" stroke="url(#b)" stroke-width="2" stroke-opacity="0.45">
+    <animate attributeName="stroke-opacity" values="0.25;0.9;0.25" dur="3.5s" begin="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <text x="24" y="36" class="n">02 / 04</text>
+  <rect x="24" y="50" width="6" height="24" rx="3" fill="url(#b)"/>
+  <text x="40" y="69" class="t">Hydronexis</text>
+  <g transform="translate(332 18)">
+    <path d="M42 4 C42 4 27 23 27 33 a15 15 0 0 0 30 0 C57 23 42 4 42 4Z" fill="#ff7a18" fill-opacity="0.16" stroke="#ff9a3c" stroke-width="1.6">
+      <animate attributeName="fill-opacity" values="0.12;0.32;0.12" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M35 34 a7 7 0 0 0 7 7" fill="none" stroke="#ffc27a" stroke-width="1.6" stroke-linecap="round"/>
+    <ellipse cx="42" cy="54" rx="6" ry="1.6" fill="none" stroke="#fb923c" stroke-width="1.2" opacity="0">
+      <animate attributeName="rx" values="6;32" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="ry" values="1.6;5" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="42" cy="54" rx="6" ry="1.6" fill="none" stroke="#ffc27a" stroke-width="1.2" opacity="0">
+      <animate attributeName="rx" values="6;32" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="ry" values="1.6;5" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  <text x="24" y="104" class="d" textLength="337.5" lengthAdjust="spacing">Hydroponics platform that helps families grow</text>
+  <text x="24" y="123" class="d" textLength="315.0" lengthAdjust="spacing">fresh food at home, with a marketplace for</text>
+  <text x="24" y="142" class="d" textLength="247.5" lengthAdjust="spacing">local exchange and collaboration.</text>
+  <rect x="24.0" y="160" width="52.8" height="24" rx="12" fill="#ff9a3c" fill-opacity="0.13" stroke="#ff9a3c" stroke-opacity="0.8"/>
+  <text x="50.4" y="176" text-anchor="middle" class="g" fill="#ff9a3c" textLength="28.8" lengthAdjust="spacing">HTML</text>
+  <rect x="84.8" y="160" width="45.6" height="24" rx="12" fill="#fb923c" fill-opacity="0.13" stroke="#fb923c" stroke-opacity="0.8"/>
+  <text x="107.6" y="176" text-anchor="middle" class="g" fill="#fb923c" textLength="21.6" lengthAdjust="spacing">CSS</text>
+  <rect x="138.4" y="160" width="96.0" height="24" rx="12" fill="#ffc27a" fill-opacity="0.13" stroke="#ffc27a" stroke-opacity="0.8"/>
+  <text x="186.4" y="176" text-anchor="middle" class="g" fill="#ffc27a" textLength="72.0" lengthAdjust="spacing">JavaScript</text>
+  <rect x="242.4" y="160" width="67.2" height="24" rx="12" fill="#fdba74" fill-opacity="0.13" stroke="#fdba74" stroke-opacity="0.8"/>
+  <text x="276.0" y="176" text-anchor="middle" class="g" fill="#fdba74" textLength="43.2" lengthAdjust="spacing">Python</text>
+  <line x1="24" y1="198" x2="416" y2="198" stroke="#30363d" stroke-opacity="0.7"/>
+  <text x="24" y="216" class="l">View project  →
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" begin="0.9s" repeatCount="indefinite"/>
+  </text>
+  <circle cx="376.4" cy="212" r="4.5" fill="#a371f7"/>
+  <text x="416" y="216" text-anchor="end" class="m" textLength="21.6" lengthAdjust="spacing">CSS</text>
+</svg>

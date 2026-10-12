@@ -9,6 +9,8 @@
     assets/tech-orbit.svg     -> tecnologias orbitando
     assets/skills.svg         -> barras de enfoque animadas
     assets/project-card.svg   -> plantilla de tarjeta de proyecto
+    assets/project-1..4.svg   -> tarjetas de proyectos (Hands, Hydronexis, HealthBoost, PanaRoots)
+    assets/mindset.svg        -> pipeline animado de la seccion 07
   Paleta: naranja (#ff7a18) · ambar · coral · durazno
 ============================================================ -->
 
@@ -107,8 +109,8 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 <tr>
 <td align="center" width="33%">
 <b>Frontend</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br>
-<sub>HTML · CSS · JavaScript</sub>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,threejs&theme=dark" /><br>
+<sub>HTML · CSS · JavaScript · TypeScript · Three.js</sub>
 </td>
 <td align="center" width="33%">
 <b>Backend</b><br><br>
@@ -161,53 +163,45 @@ I enjoy working across the entire product lifecycle: from the first idea and int
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=ea580c&width=435&height=45&lines=04+%E2%80%94+PROJECTS" alt="04 - PROJECTS" />
 
-<!--
-============================================================
-Cuando tengas un proyecto, descomenta UNA de las dos opciones.
-
-OPCION A: tarjetas automaticas de GitHub
-Cambia REPO_NAME por el nombre exacto de tu repositorio.
+<!-- Tarjetas generadas: para cambiar textos o etiquetas, edita assets/project-N.svg -->
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/JMMM11/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ea580c&icon_color=ffc27a" />
+<td width="50%" align="center">
+<a href="https://github.com/JMMM11/Hands">
+  <img src="assets/project-1.svg" width="100%" alt="Hands: real-time hand gesture recognition in the browser, turning camera input into 3D particle effects" />
 </a>
+<sub><a href="https://jmmm11.github.io/Hands/">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/JMMM11/Hands">Source</a></sub>
 </td>
-<td width="50%">
-<a href="https://github.com/JMMM11/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMMM11&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ea580c&icon_color=ffc27a" />
+<td width="50%" align="center">
+<a href="https://github.com/JMMM11/Hydronexis">
+  <img src="assets/project-2.svg" width="100%" alt="Hydronexis: hydroponics platform that helps families grow fresh food at home, with a marketplace for local exchange" />
 </a>
+<sub><a href="https://jmmm11.github.io/Hydronexis/">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/JMMM11/Hydronexis">Source</a></sub>
 </td>
 </tr>
-</table>
-
-OPCION B: tarjetas propias animadas
-1. Copia assets/project-card.svg como assets/project-1.svg y assets/project-2.svg
-2. Edita en cada una el titulo, la descripcion y las etiquetas
-3. Cambia NOMBRE_REPO por el nombre exacto de tu repositorio
-
-<table>
 <tr>
-<td width="50%">
-<a href="https://github.com/JMMM11/NOMBRE_REPO">
-  <img src="assets/project-1.svg" width="100%" alt="Project 1" />
+<td width="50%" align="center">
+<a href="https://github.com/JMMM11/HealthBoost">
+  <img src="assets/project-3.svg" width="100%" alt="HealthBoost: nutrition, mental wellness and physical activity in one place, with guidance from qualified professionals" />
 </a>
+<sub><a href="https://jmmm11.github.io/HealthBoost/">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/JMMM11/HealthBoost">Source</a></sub>
 </td>
-<td width="50%">
-<a href="https://github.com/JMMM11/NOMBRE_REPO_2">
-  <img src="assets/project-2.svg" width="100%" alt="Project 2" />
+<td width="50%" align="center">
+<a href="https://github.com/JMMM11/Panaroots">
+  <img src="assets/project-4.svg" width="100%" alt="PanaRoots: connects travelers with the authentic Panama through curated destinations and tours" />
 </a>
+<sub><a href="https://jmmm11.github.io/Panaroots/">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/JMMM11/Panaroots">Source</a></sub>
 </td>
 </tr>
 </table>
-============================================================
--->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=9CA3AF&center=true&vCenter=true&width=520&height=40&lines=Projects+will+be+added+here+as+they+are+completed...;Currently+building+something+good." alt="projects soon" />
+<br>
+
+<a href="https://github.com/JMMM11/Digital-Portafolio"><img src="https://img.shields.io/badge/Also-Digital_Portafolio-ff7a18?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Digital Portafolio" /></a>
+<a href="https://github.com/JMMM11?tab=repositories"><img src="https://img.shields.io/badge/All-Repositories-ea580c?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="All repositories" /></a>
 
 </div>
 
@@ -253,15 +247,11 @@ OPCION B: tarjetas propias animadas
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=100000&color=FBBF24&width=500&height=45&lines=07+%E2%80%94+DEVELOPMENT+MINDSET" alt="07 - DEVELOPMENT MINDSET" />
 
-<table>
-<tr>
-<td width="20%" align="center"><h3>Design</h3><sub>Make it intuitive.</sub></td>
-<td width="20%" align="center"><h3>Code</h3><sub>Make it maintainable.</sub></td>
-<td width="20%" align="center"><h3>Performance</h3><sub>Make it fast.</sub></td>
-<td width="20%" align="center"><h3>AI</h3><sub>Make it useful.</sub></td>
-<td width="20%" align="center"><h3>Details</h3><sub>Make it feel finished.</sub></td>
-</tr>
-</table>
+<div align="center">
+
+<img src="assets/mindset.svg" width="92%" alt="Design: make it intuitive. Code: make it maintainable. Performance: make it fast. AI: make it useful. Details: make it feel finished." />
+
+</div>
 
 <!-- ======================= 08 ======================= -->
 

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150" role="img" aria-label="Development mindset: Design: Make it intuitive. Code: Make it maintainable. Performance: Make it fast. AI: Make it useful. Details: Make it feel finished.">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff7a18"/><stop offset="0.5" stop-color="#ffc27a"/><stop offset="1" stop-color="#ea580c"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .n { font-family: "Cascadia Code","Cascadia Mono",Consolas,Menlo,"DejaVu Sans Mono","Courier New",monospace; font-size: 13px; font-weight: 700; }
+    .t { font-family: "Cascadia Code","Cascadia Mono",Consolas,Menlo,"DejaVu Sans Mono","Courier New",monospace; font-size: 15px; font-weight: 700; fill: #f0f6fc; }
+    .d { font-family: "Cascadia Code","Cascadia Mono",Consolas,Menlo,"DejaVu Sans Mono","Courier New",monospace; font-size: 11.5px; fill: #8b949e; }
+  </style>
+  <rect width="760" height="150" rx="14" fill="#0d1117"/>
+  <rect x="1" y="1" width="758" height="148" rx="13" fill="none" stroke="#30363d"/>
+  <line x1="76" y1="50" x2="684" y2="50" stroke="url(#b)" stroke-width="2" stroke-opacity="0.35"/>
+  <circle cy="50" r="4" fill="#fff">
+    <animate attributeName="cx" values="76;684;684" keyTimes="0;0.8;1" dur="6.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.85;1" dur="6.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="76" cy="50" r="16" fill="none" stroke="#ff9a3c" stroke-width="1.5" stroke-opacity="0.25">
+    <animate attributeName="stroke-opacity" values="0.9;0.25;0.25" keyTimes="0;0.14;1" dur="6.0s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="22;16;16" keyTimes="0;0.14;1" dur="6.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="76" cy="50" r="16" fill="#161b22" stroke="#ff9a3c" stroke-width="1.6"/>
+  <text x="76" y="54.5" text-anchor="middle" class="n" fill="#ff9a3c">1</text>
+  <text x="76" y="100" text-anchor="middle" class="t">Design</text>
+  <text x="76" y="122" text-anchor="middle" class="d" textLength="124.2" lengthAdjust="spacing">Make it intuitive.</text>
+  <circle cx="228" cy="50" r="16" fill="none" stroke="#fb923c" stroke-width="1.5" stroke-opacity="0.25">
+    <animate attributeName="stroke-opacity" values="0.25;0.25;0.9;0.25;0.25" keyTimes="0;0.14;0.20;0.34;1" dur="6.0s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="16;16;22;16;16" keyTimes="0;0.14;0.20;0.34;1" dur="6.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="228" cy="50" r="16" fill="#161b22" stroke="#fb923c" stroke-width="1.6"/>
+  <text x="228" y="54.5" text-anchor="middle" class="n" fill="#fb923c">2</text>
+  <text x="228" y="100" text-anchor="middle" class="t">Code</text>
+  <text x="228" y="122" text-anchor="middle" class="d" textLength="144.9" lengthAdjust="spacing">Make it maintainable.</text>
+  <circle cx="380" cy="50" r="16" fill="none" stroke="#ffc27a" stroke-width="1.5" stroke-opacity="0.25">
+    <animate attributeName="stroke-opacity" values="0.25;0.25;0.9;0.25;0.25" keyTimes="0;0.34;0.40;0.54;1" dur="6.0s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="16;16;22;16;16" keyTimes="0;0.34;0.40;0.54;1" dur="6.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="380" cy="50" r="16" fill="#161b22" stroke="#ffc27a" stroke-width="1.6"/>
+  <text x="380" y="54.5" text-anchor="middle" class="n" fill="#ffc27a">3</text>
+  <text x="380" y="100" text-anchor="middle" class="t">Performance</text>
+  <text x="380" y="122" text-anchor="middle" class="d" textLength="89.7" lengthAdjust="spacing">Make it fast.</text>
+  <circle cx="532" cy="50" r="16" fill="none" stroke="#fdba74" stroke-width="1.5" stroke-opacity="0.25">
+    <animate attributeName="stroke-opacity" values="0.25;0.25;0.9;0.25;0.25" keyTimes="0;0.54;0.60;0.74;1" dur="6.0s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="16;16;22;16;16" keyTimes="0;0.54;0.60;0.74;1" dur="6.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="532" cy="50" r="16" fill="#161b22" stroke="#fdba74" stroke-width="1.6"/>
+  <text x="532" y="54.5" text-anchor="middle" class="n" fill="#fdba74">4</text>
+  <text x="532" y="100" text-anchor="middle" class="t">AI</text>
+  <text x="532" y="122" text-anchor="middle" class="d" textLength="103.5" lengthAdjust="spacing">Make it useful.</text>
+  <circle cx="684" cy="50" r="16" fill="none" stroke="#ff9a3c" stroke-width="1.5" stroke-opacity="0.25">
+    <animate attributeName="stroke-opacity" values="0.25;0.25;0.9;0.25;0.25" keyTimes="0;0.74;0.80;0.94;1" dur="6.0s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="16;16;22;16;16" keyTimes="0;0.74;0.80;0.94;1" dur="6.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="684" cy="50" r="16" fill="#161b22" stroke="#ff9a3c" stroke-width="1.6"/>
+  <text x="684" y="54.5" text-anchor="middle" class="n" fill="#ff9a3c">5</text>
+  <text x="684" y="100" text-anchor="middle" class="t">Details</text>
+  <text x="684" y="122" text-anchor="middle" class="d" textLength="151.8" lengthAdjust="spacing">Make it feel finished.</text>
+</svg>
